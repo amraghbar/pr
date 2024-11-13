@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+    color: rgb(18, 13, 49);
+    font-weight: bold;
+}
+footer{
+
+    align-items: center;
+    justify-content: space-around;
+    grid-area: ft;
+    background-color: #d5bdaf;
+}
